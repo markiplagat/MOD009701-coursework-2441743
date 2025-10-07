@@ -5,3 +5,7 @@
 
 ## WEEK 2
 <img width="993" height="863" alt="image" src="https://github.com/user-attachments/assets/cd5a77ce-c0a0-4b25-b5f8-d34d3c864fec" />
+
+## WEEK 3
+<img width="1202" height="776" alt="Screenshot from 2025-10-07 17-42-47" src="https://github.com/user-attachments/assets/6f9f7ab8-b627-4578-879d-05578da5e8cc" />
+
