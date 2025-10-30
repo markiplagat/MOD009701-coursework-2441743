@@ -17,3 +17,6 @@
 <img width="1339" height="762" alt="wk5-1" src="https://github.com/user-attachments/assets/7045c776-4a20-49b4-b2b1-ad8794e37012" />
 <img width="1387" height="602" alt="wk5-2" src="https://github.com/user-attachments/assets/fa984979-3c7b-491a-a1d2-2d0368158317" />
 <img width="1300" height="852" alt="image" src="https://github.com/user-attachments/assets/d218f9ee-dc74-46f2-a525-d9c296cedb2b" />
+
+## WEEK 6
+<img width="1195" height="523" alt="week5" src="https://github.com/user-attachments/assets/2237ed87-3e6a-47d4-b7f9-661d984b5b95" />
