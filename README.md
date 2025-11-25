@@ -27,3 +27,9 @@
 <img width="1069" height="731" alt="wk7-3" src="https://github.com/user-attachments/assets/d5f8e306-192d-4c2d-be36-280ff27d6449" />
 <img width="1074" height="790" alt="wk7-4" src="https://github.com/user-attachments/assets/4aaf2251-d724-4c56-8a3c-d4e57f499f1c" />
 
+## WEEk 8
+<img width="1250" height="570" alt="week8_1" src="https://github.com/user-attachments/assets/0a8855c4-e17b-4daa-a07e-9993134cd6d7" />
+<img width="1226" height="796" alt="weeek8_2" src="https://github.com/user-attachments/assets/e750c3f8-881f-459f-be2b-9944b494952e" />
+
+
+
